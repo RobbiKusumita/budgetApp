@@ -1,20 +1,20 @@
 # Budget Calculator App (Angular)
 
-[![Application Design Illustration](./src/assets/thumbnail.png)](https://youtu.be/sU4z4Ti-8OQ)
+[![Application Design Illustration](./src/assets/thumbnail.png)]
 
-##### Watch the full tutorial on [Youtube](https://youtu.be/sU4z4Ti-8OQ)! 
+
 
 ## Screenshots
 
-[![Application Screenshot 1](./src/assets/screenshots/01_Budget_App_Screenshot.png)](https://youtu.be/sU4z4Ti-8OQ)
+[![Application Screenshot 1](./src/assets/screenshots/01_Budget_App_Screenshot.png)]
 
-[![Application Screenshot 1](./src/assets/screenshots/02_Budget_App_Screenshot.png)](https://youtu.be/sU4z4Ti-8OQ)
+[![Application Screenshot 1](./src/assets/screenshots/02_Budget_App_Screenshot.png)]
 
-[![Application Screenshot 1](./src/assets/screenshots/03_Budget_App_Screenshot.png)](https://youtu.be/sU4z4Ti-8OQ)
+[![Application Screenshot 1](./src/assets/screenshots/03_Budget_App_Screenshot.png)]
 
-[![Application Screenshot 1](./src/assets/screenshots/04_Budget_App_Screenshot.png)](https://youtu.be/sU4z4Ti-8OQ)
+[![Application Screenshot 1](./src/assets/screenshots/04_Budget_App_Screenshot.png)]
 
-[![Application Screenshot 1](./src/assets/screenshots/05_Budget_App_Screenshot.png)](https://youtu.be/sU4z4Ti-8OQ)
+[![Application Screenshot 1](./src/assets/screenshots/05_Budget_App_Screenshot.png)]
 
 ---
 
